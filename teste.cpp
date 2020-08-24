@@ -3,6 +3,8 @@
 #include <locale.h>
 #include <iostream>
 
+//Não consegui compilar
+
 using namespace std;
 
 class Retangulo {
